@@ -372,6 +372,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
   {
+    animeEmoji: '👹🏻‍ 🧛 👊 💪',
+    animeName: 'JoJo no Kimyou na Bouken: Phantom Blood (JoJo\'s Bizarre Adventure: Phantom Blood)',
+    animeYear: 2007,
+    animeLink: 'https://myanimelist.net/anime/3603/JoJo_no_Kimyou_na_Bouken__Phantom_Blood',
+  },
+  {
     animeEmoji: '👊🏻💪🏻🤴🏻⚔️😎',
     animeName: 'K',
     animeYear: 2012,
